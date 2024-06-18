@@ -12,3 +12,12 @@ Front End | Back End | And more...
 • HTML/CSS | • Postgres | • Docker
 
 ### See my full project list here: [Repositories](https://github.com/KurbonovO?tab=repositories)
+
+## 💬 Ask me about
+
+- Front End Web Development
+- Back End API Development
+- RERN & MERN Stack Development
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=KurbonovO&show_icons=true&theme=cobalt&hide=stars,issues)](https://github.com/KurbonovO/github-readme-stats)
+<br />
