@@ -6,10 +6,10 @@
 Front End | Back End | And more...
 ------------ | ------------- | ------------
 • React/React Native | • Java | • SQL
-• Angular | • Python | • Flask
-• JavaScript | • C# | • Prisma
-• TypeScript | • C# | • Prisma
+• Angular | • Python | • 
+• JavaScript | • C# | • 
+• TypeScript | • C# | • 
 • HTML/CSS | • Postgres | • Docker
 
-### See my full resume and project list here:
+### See my full project list here:
 [GitHub Gist](https://github.com/KurbonovO?tab=repositories)
