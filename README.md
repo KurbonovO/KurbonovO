@@ -6,9 +6,9 @@
 Front End | Back End | And more...
 ------------ | ------------- | ------------
 • React/React Native | • Java | • SQL
-• Angular | • Python | • 
+• Angular | • Python | • NoSQL
 • JavaScript | • C# | • 
-• TypeScript | • C# | • 
+• TypeScript | • Spring/Spring Boot | • 
 • HTML/CSS | • Postgres | • Docker
 
 ### See my full project list here:
