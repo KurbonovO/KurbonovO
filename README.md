@@ -1,5 +1,5 @@
 # Hi there, I'm Beck Kurbonov 👋
-**Senior Full Stack Engineer** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beckkurbonov/)](https://www.linkedin.com/in/beckkurbonov/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beckkurbonov/)](https://www.linkedin.com/in/beckkurbonov/) **Senior Full Stack Engineer** 
 
 Front End | Back End | And more...
 ------------ | ------------- | ------------
