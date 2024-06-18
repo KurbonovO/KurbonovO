@@ -11,5 +11,4 @@ Front End | Back End | And more...
 • TypeScript | • Spring/Spring Boot | • 
 • HTML/CSS | • Postgres | • Docker
 
-### See my full project list here:
-[Repositories](https://github.com/KurbonovO?tab=repositories)
+### See my full project list here: [Repositories](https://github.com/KurbonovO?tab=repositories)
