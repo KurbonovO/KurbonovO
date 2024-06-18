@@ -17,7 +17,6 @@ Front End | Back End | And more...
 
 - Back End API Development
 - Front End Web Development
-- RERN & MERN Stack Development
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=KurbonovO&show_icons=true&theme=cobalt)](https://github.com/KurbonovO/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=KurbonovO&show_icons=true&theme=cobalt&hide=stars,issues)](https://github.com/KurbonovO/github-readme-stats)
 <br />
