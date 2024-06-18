@@ -12,4 +12,4 @@ Front End | Back End | And more...
 • HTML/CSS | • Postgres | • Docker
 
 ### See my full project list here:
-[GitHub Gist](https://github.com/KurbonovO?tab=repositories)
+[Repositories](https://github.com/KurbonovO?tab=repositories)
